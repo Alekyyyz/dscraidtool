@@ -2,3 +2,4 @@
 + you need python
 + extract file
 + open & enjoy.
++ if is there problem disable antivirus
